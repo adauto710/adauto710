@@ -47,3 +47,12 @@ Aqui você encontrará projetos pessoais, experimentos, contribuições open sou
 ⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar os repositórios, deixar uma estrela ⭐ ou entrar em contato.
 
 ---
+## 🌐 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-24292E?style=flat-square&logo=github&logoColor=white)](https://seusite.dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
+
+---
+
+> “Código é poesia — e estou sempre escrevendo meu próximo verso.”
